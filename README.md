@@ -14,7 +14,7 @@ This repository contains the implementation of a hybrid algorithm that combines 
 
 ## Introduction
 
-Vehicle routing problem can be described as  a fleet of vehicles having to visit some set of customers with some demands located in various cities. It involves finding the most efficient way to deliver goods or services. The primary objective is to minimise transportation costs and, in some cases, minimise the number of vehicles used while satisfying various constraints. 
+Vehicle routing problem can be described as  a fleet of vehicles having to visit some set of customers with some demands located in various cities. It involves finding the most efficient way to deliver goods or services. The primary objective is to minimize transportation costs and, in some cases, minimize the number of vehicles used while satisfying various constraints. 
 
 ## Features
 
@@ -29,5 +29,7 @@ Addresses the VRP, a classic optimization problem involving the efficient routin
 ## Getting Started
 
 command for running the hybrid algorithm
+
 javac Fitness.java
+
 java Fitness
