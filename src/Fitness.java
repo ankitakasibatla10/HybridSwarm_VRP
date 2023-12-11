@@ -311,7 +311,7 @@ public class Fitness {
     if (newFitness_map.values().iterator().next() < globalBestFitnessMap.values().iterator().next()) {
         globalBestFitnessMap.clear();
         globalBestFitnessMap.putAll(newFitness_map);
-        System.out.println(updatedVehicleRoutesAfterSwap + "routes");
+        //System.out.println(updatedVehicleRoutesAfterSwap + "routes");
 
         // Optionally, print the updated global best fitness and its cost
         System.out.println("Updated Global Best Fitness:");
