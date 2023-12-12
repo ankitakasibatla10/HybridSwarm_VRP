@@ -18,6 +18,7 @@ public class Fitness {
         Collections.shuffle(individual);
 
         return individual;
+
     }
 
 
@@ -96,6 +97,8 @@ public class Fitness {
         double transport_cost = 10.0;
         int vehicle_setup_cost = 50;
         ArrayList<ArrayList<Integer>> route_instance = possibleRoutes(random_individual, customer_data, vehicle_data, updatedVehicleRoutes);
+
+        System.out.println(route_instance + "route_instance");
 
         double total_cost;
 
