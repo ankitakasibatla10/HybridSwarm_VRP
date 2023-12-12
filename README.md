@@ -19,11 +19,9 @@ Vehicle routing problem can be described as  a fleet of vehicles having to visit
 ## Features
 
 Hybrid Algorithm Integration:
-
 Combines Particle Swarm Optimization (PSO) and Grey Wolf Optimization (GWO) to leverage the strengths of both algorithms.
 
 Vehicle Routing Problem (VRP) Solving:
-
 Addresses the VRP, a classic optimization problem involving the efficient routing of vehicles to serve a set of customers.
 
 ## Getting Started
